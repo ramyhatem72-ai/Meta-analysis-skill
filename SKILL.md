@@ -1,3 +1,8 @@
+---
+name: analyze_meta_ads
+description: Skill for Manus to pull and analyze Meta Ads insights.
+---
+
 # Meta Ads Analysis Skill
 This skill allows Manus to connect to Meta Marketing API and analyze ad performance.
 
